@@ -27,8 +27,11 @@ Skills
 Publications
 ======
 [1] X. Fan, S. Lv, D. Ge, C. Liu, X. Peng, Z. Ju, Time-temperature equivalence and unified characterization of asphalt mixture fatigue properties, Construction and Building Materials 359 (2022).
+
 [2] T. Huang, P. Guo, X. Peng, Z. Cao, S. Lv, H. Liu, J. Sheng, Three-Dimensional Failure Criterion of Asphalt Mixtures in Asphalt Pavement, Journal of Materials in Civil Engineering 34(7) (2022).
+
 [3] S. Lv, S. Wang, C. Liu, J. Zheng, Y. Li, X. Peng, Synchronous Testing Method for Tension and Compression Moduli of Asphalt Mixture under Dynamic and Static Loading States, Journal of Materials in Civil Engineering 30(10) (2018).
+
 [4] S. Lv, L. Hu, C. Xia, X. Peng, M.B. Cabrera, S. Guo, L. You, Surface-treated fish scale powder with silane coupling agent in asphalt for performance improvement: Conventional properties, rheology, and morphology, Journal of Cleaner Production 311 (2021).
 [5] W. Yan, Y. Ou, J. Xie, T. Huang, X. Peng, Study on Properties of Bone Glue/Polyurethane Composite Modified Asphalt and Its Mixture, Materials 14(14) (2021).
 [6] S. Lv, J. Yuan, X. Peng, N. Zhang, H. Liu, X. Luo, A structural design for semi-rigid base asphalt pavement based on modulus optimization, Construction and Building Materials 302 (2021).
